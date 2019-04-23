@@ -12,6 +12,5 @@ target
 *.ipr
 *.iws
 *.versionsBackup
-all files
 *.iml
 .DS_Store
